@@ -1,26 +1,9 @@
-# Brackets
+# Nikita Musaev
+## Tashkent University of Information Technologies, 2014
+**nikitoz9999@gmail.com**
 
-## Task
++998(90) 357-28-12
 
-Implement function `check(str, bracketsConfig)`, that for given brackets sequence will return `true` if it is correct and `false` otherwise
-
-In the second param there is `bracketsConfig` - the array of pairs open-closed brackets. Each subarray includes only 2 elements - opening and closing bracket
-
-```js
-check('()', [['(', ')']]) // -> true
-check('((()))()', [['(', ')']]) // -> true
-check('())(', [['(', ')']]) // -> false
-check('([{}])', [['(', ')'], ['[', ']'], ['{', '}']]) // -> true
-check('[(])', [['(', ')'], ['[', ']']]) // -> false
-check('[]()', [['(', ')'], ['[', ']']]) // -> true
-check('[]()(', [['(', ')'], ['[', ']']]) // -> false
-
-// special case: opening and closing bracket can be the same :)
-
-check('||', [['|', '|']]) // -> true
-check('|()|', [['(', ')'], ['|', '|']]) // -> true
-check('|(|)', [['(', ')'], ['|', '|']]) // -> false
-check('|()|(||)||', [['(', ')'], ['|', '|']]) // -> true
-```
-
-Write your code in `src/index.js`
+1. Jun 2015 - Present: Project Manager, "Shtrihpunktir"
+2. Feb 2013 - May 2015: Junior Developer => Middle Developer, "Metrafor"
+3. Nov 2011 - Dec 2012: QA => Junior Developer, "Berkano"
